@@ -1,4 +1,4 @@
-# QUICK START GUIDE
+# 1. QUICK START GUIDE
 
 ## 📦 What You Got
 
